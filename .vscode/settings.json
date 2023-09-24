@@ -1,0 +1,24 @@
+{
+	"files.associations": {
+		"bit": "cpp",
+		"compare": "cpp",
+		"cstddef": "cpp",
+		"list": "cpp",
+		"string": "cpp",
+		"optional": "cpp",
+		"limits": "cpp",
+		"memory": "cpp",
+		"new": "cpp",
+		"ranges": "cpp",
+		"functional": "cpp",
+		"array": "cpp",
+		"deque": "cpp",
+		"unordered_map": "cpp",
+		"vector": "cpp",
+		"string_view": "cpp",
+		"initializer_list": "cpp",
+		"forward_list": "cpp",
+		"internet": "cpp",
+		"io_context": "cpp"
+	}
+}
